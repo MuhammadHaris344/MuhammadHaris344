@@ -66,7 +66,7 @@ Thanks for stopping by! 😊
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Cute Dino" width="400px" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="meme" width="400px" />
 </p>
 
 ---
