@@ -1,15 +1,18 @@
 <!-- Beautiful GitHub Profile README for Muhammad Haris -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
-<h3 align="center">🚀 DevOps Engineer | Passionate about Automation, Cloud & System Reliability</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;Automation+and+CI%2FCD+Enthusiast;Lifelong+Learner+in+Cloud+and+DevOps" alt="Typing Animation" />
+</h3>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a **DevOps Engineer** currently working at **[Testrunner](https://www.testrunner.com)**, a company that provides human IT resources to global clients.  
-For the past **7 months**, I've been working with **Kaufman**, and my contract recently ended — waiting to get started with my **next client** at Testrunner.  
+I'm a **DevOps Engineer** currently working at **[Testrunner](https://www.testrunner.com)** — a company that provides human IT resources to global clients.  
+For the past **7 months**, I’ve been working with **Kaufman**, and my contract has just ended — now waiting to get started with my **next client** at Testrunner.  
 
-I'm currently deep diving into:
+Currently deep diving into:
 - 🐧 **Linux internals & shell scripting**
 - 🐳 **Docker & container orchestration**
 - ☸️ **Kubernetes**
@@ -32,12 +35,12 @@ I'm currently deep diving into:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mechanicsrg&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mechanicsrg&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mechanicsrg&show_icons=true&theme=tokyonight" alt="Haris' GitHub stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=mechanicsrg&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechanicsrg&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechanicsrg&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -45,8 +48,12 @@ I'm currently deep diving into:
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:mechanicsrg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-haris-4926a631a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mechanicsrg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mechanicsrg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-haris-4926a631a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Haris-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </p>
 
 ---
@@ -61,4 +68,11 @@ Thanks for stopping by! 😊
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Cute Dino" width="400px" />
+</p>
+
+---
+
+<!-- 🐍 Contribution Snake Animation -->
+<p align="center">
+  <img src="https://github.com/mechanicsrg/mechanicsrg/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
