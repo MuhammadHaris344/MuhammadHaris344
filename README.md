@@ -9,8 +9,8 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **DevOps Engineer** currently working at **[Testrunner](https://www.testrunner.com)** — a company that provides human IT resources to global clients.  
-For the past **7 months**, I’ve been working with **Kaufman**, and my contract has just ended — now waiting to get started with my **next client** at Testrunner.  
+I'm a **DevOps Engineer** currently working at **[Testrunner](https://www.testrunnerinc.com)** — a company that provides human IT resources to global clients.  
+For the past **7 months**, I’ve been working with **H.W Kaufman**, and my contract has just ended — now waiting to get started with my **next client** at Testrunner.  
 
 Currently deep diving into:
 - 🐧 **Linux internals & shell scripting**
