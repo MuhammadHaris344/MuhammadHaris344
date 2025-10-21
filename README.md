@@ -66,7 +66,7 @@ Thanks for stopping by! 😊
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="meme" width="400px" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="400px" />
 </p>
 
 ---
