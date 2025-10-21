@@ -35,12 +35,12 @@ Currently deep diving into:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mechanicsrg&show_icons=true&theme=tokyonight" alt="Haris' GitHub stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=mechanicsrg&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadHaris344&show_icons=true&theme=tokyonight" alt="Haris' GitHub stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=MuhammadHaris344&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mechanicsrg&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaris344&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -74,5 +74,5 @@ Thanks for stopping by! 😊
 
 <!-- 🐍 Contribution Snake Animation -->
 <p align="center">
-  <img src="https://github.com/mechanicsrg/mechanicsrg/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/MuhammadHaris344/MuhammadHaris344/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
