@@ -73,5 +73,5 @@ Thanks for stopping by! 😊
 
 <!-- 🐍 Contribution Snake Animation -->
 <p align="center">
-  <img src="https://github.com/MuhammadHaris344/MuhammadHaris344/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHaris344&theme=tokyo-night" alt="Graph" />
 </p>
